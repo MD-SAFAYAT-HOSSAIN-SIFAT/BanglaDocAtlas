@@ -1,2 +1,2 @@
 # ComBDLAD
-Final Year Design Project - Complex Bengali Document Layout Analysis Dataset (ComBDLAD)
+Final Year Design Project - BanglaDocAtlas:Complex Bengali Document Layout Analysis Dataset 
