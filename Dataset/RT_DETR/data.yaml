@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['advertisement', 'caption', 'image', 'page number', 'paragraph', 'table', 'text', 'title']
+
+roboflow:
+  workspace: uiu-lxaq9
+  project: fydp-vmxwc
+  version: 13
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/uiu-lxaq9/fydp-vmxwc/dataset/13
