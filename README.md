@@ -1,12 +1,7 @@
 # BanglaDocAtlas
 
-This repository contains the official release of the model **"BanglaDocAtlas"** and associated downstream fine-tuning code and datasets introduced in the paper titled [**"BanglaBERT: Language Model Pretraining and Benchmarks for
-Low-Resource Language Understanding Evaluation in Bangla"**](https://aclanthology.org/2022.findings-naacl.98/) published in *Findings of the Association for Computational Linguistics: NAACL 2022*.
-
-## Updates
-* We have released [BanglaBERT (small)](https://huggingface.co/csebuetnlp/banglabert_small). It can be fine-tuned with as little as 4 GB VRAM!
-* We have released a large variant of BanglaBERT! Have a look [here](https://huggingface.co/csebuetnlp/banglabert_large).
-* The Bangla2B+ pretraining corpus is now available upon request! See [here](#datasets).
+This repository offers the information about the "BanglaDocAtlas" datasets, trained models for evaluating the custom made datasets, along with the related code, as detailed in the paper titled [**"BanglaDocAtlas: A Complex Bangla Document Layout Analysis Dataset"**]
+BanglaDocAtlas is a custom dataset for Document Layout Analysis(DLA) System designed specifically for Bengali Language consisting of 2,167 images out of 5,000 images in total featuring a total of 8 classes ("Advertisement, Image, Caption, Title, Paragraph, Text, Table, Page Number") from 4 distinct domains ("Magazines, Books, Newspapers, and Official Documents").
 
 ## Table of Contents
 
