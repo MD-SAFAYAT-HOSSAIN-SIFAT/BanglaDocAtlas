@@ -25,13 +25,15 @@ The pretrained model checkpoints are available at [https://github.com/MD-SAFAYAT
 
 ## Datasets
 
-We are also releasing the Bangla Natural Language Inference (NLI) and Bangla Question Answering (QA) datasets introduced in the paper. 
-- [**NLI**](https://huggingface.co/datasets/csebuetnlp/xnli_bn)
-- [**QA**](https://huggingface.co/datasets/csebuetnlp/squad_bn)
+Our dataset is split into a 75-10-15 ratio for training, validation, and testing respectedly. The dataset's lebel data is then divided into two formats: .txt for YOLO and RT-DETR models, and coco.json for the Detectron 2 model. Additionally, we generated masked images from the coco.json format lebel to train the U-NET model.
 
-Please fill out this [**Google Form**](https://forms.gle/qiEW8f7i6Bw3FmmQA) to request access to the Bangla2B+ pretraining corpus. 
+- [**YOLO(v9, v8, v5) Dataset**](https://github.com/MD-SAFAYAT-HOSSAIN-SIFAT/BanglaDocAtlas/tree/main/Dataset/YOLO(v5__v8__v9))
+- [**RT-DETR Dataset**](https://github.com/MD-SAFAYAT-HOSSAIN-SIFAT/BanglaDocAtlas/tree/main/Dataset/RT_DETR)
+- [**U-Net Dataset**](https://github.com/MD-SAFAYAT-HOSSAIN-SIFAT/BanglaDocAtlas/tree/main/Dataset/U_NET)
+- [**Detectron2 Dataset**](https://github.com/MD-SAFAYAT-HOSSAIN-SIFAT/BanglaDocAtlas/tree/main/Dataset/DETECTRON2)
+
   
 ## Acknowledgements
 
-We would like to thank [Intelligent Machines](https://bd.linkedin.com/company/intelligentmachines) and [Google TFRC Program](https://sites.research.google/trc/) for providing cloud support for pretraining the models.
+We would like to thank [Professor Swakkhar Shatabda](https://scholar.google.com/citations?hl=en&user=2DhrWFgAAAAJ&view_op=list_works&sortby=pubdate) and [Md Ashiqur Rahman](https://scholar.google.com/citations?user=ujAbMnwAAAAJ&hl=en) for providing enourmous support and guidence for completing our research project.
 
