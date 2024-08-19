@@ -10,7 +10,7 @@ Low-Resource Language Understanding Evaluation in Bangla"**](https://aclantholog
 
 ## Table of Contents
 
-- [BanglaBERT](#banglabert)
+- [BanglaDocAtlas](#BanglaDocAtlas)
   - [Table of Contents](#table-of-contents)
   - [Models](#models)
   - [Datasets](#datasets)
