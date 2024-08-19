@@ -35,5 +35,5 @@ Our dataset is split into a 75-10-15 ratio for training, validation, and testing
   
 ## Acknowledgements
 
-We would like to thank [Professor Swakkhar Shatabda](https://scholar.google.com/citations?hl=en&user=2DhrWFgAAAAJ&view_op=list_works&sortby=pubdate) and [Md Ashiqur Rahman](https://scholar.google.com/citations?user=ujAbMnwAAAAJ&hl=en) for providing enourmous support and guidence for completing our research project.
+I would like to thank [Professor Swakkhar Shatabda](https://scholar.google.com/citations?hl=en&user=2DhrWFgAAAAJ&view_op=list_works&sortby=pubdate) and [Md Ashiqur Rahman](https://scholar.google.com/citations?user=ujAbMnwAAAAJ&hl=en) for providing enourmous support and guidence for completing our research project. Also my cordial thanks to my beloved teammates [Kazi Maruf Al Hossain] [Jannatul ferdous Jahran] [Md.Imran Ahmed]
 
