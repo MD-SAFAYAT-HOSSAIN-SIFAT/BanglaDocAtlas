@@ -1,7 +1,7 @@
 # BanglaDocAtlas
 
 This repository offers the information about the **BanglaDocAtlas** datasets, trained models for evaluating the custom made datasets, along with the related code, as detailed in the paper titled **"BanglaDocAtlas: A Complex Bangla Document Layout Analysis Dataset"**
-BanglaDocAtlas is a custom dataset for Document Layout Analysis(DLA) System designed specifically for Bengali Language consisting of 2,167 images out of 5,000 images in total featuring a total of 8 classes **(Advertisement, Image, Caption, Title, Paragraph, Text, Table, Page Number")** from 4 distinct domains **(Magazines, Books, Newspapers, and Official Documents)**.
+BanglaDocAtlas is a custom dataset for Document Layout Analysis(DLA) System designed specifically for Bengali Language consisting of 2,167 images out of 5,000 images in total featuring a total of 8 classes **(Advertisement, Image, Caption, Title, Paragraph, Text, Table, Page Number)** from 4 distinct domains **(Magazines, Books, Newspapers, and Official Documents)**.
 
 ## Table of Contents
 
